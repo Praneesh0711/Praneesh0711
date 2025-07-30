@@ -8,6 +8,10 @@
 I am **Praneesh Bhatt**, currently a dedicated CSR student at **UPES Dehradun**. Passionate about coding and problem-solving, I specialise in **C++, Java, and Python**. I am also fluent in **English, French, and German**, which helps me navigate global tech communities effectively. I belong to an army background and have exposure to various states. I have travelled to close to 25 states.
 
 ---
+### Images
+![UPES](https://github.com/santoshpanda1995/Basic-Markdown-Editing-for-GitHub/blob/main/upes.png)
+
+---
 
 ### 🛠 Tech Stack
 - **Languages:** C++, Java, Python  
