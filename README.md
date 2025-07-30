@@ -1,6 +1,6 @@
 # Hi there, I'm Praneesh Bhatt 👋
 
-### 🚀 Aspiring Software Developer | C++ | Java | Python | Multilingual | Photography & Cooking Enthusiast
+### 🚀 Aspiring Cyber Security Enthusiast | C++ | Python | Multilingual | Photography & Cooking Enthusiast
 
 ---
 
