@@ -1,34 +1,37 @@
 # Hi there, I'm Praneesh Bhatt 👋
 
-### 🚀 Aspiring Software Developer | C++ | Java | Python | Multilingual | Sports Enthusiast
+### 🚀 Aspiring Software Developer | C++ | Java | Python | Multilingual | Photography & Cooking Enthusiast
 
 ---
 
 ### About Me
-I am **Praneesh Bhatt**, currently a dedicated CSR student at **UPES Dehradun**. Passionate about coding and problem-solving, I specialise in **C++, Java, and Python**. I am also fluent in **English, French, and German**, which helps me navigate global tech communities effectively. I belong to an army background and have exposure to various states. I have travelled to close to 25 states.
+I am **Praneesh Bhatt**, currently a dedicated CSR student at **UPES Dehradun**. I specialize in **C++ and Python**, with a strong passion for problem-solving and coding. I am fluent in **English, French, and Hindi**, and come from an army background with extensive exposure across India, having traveled to nearly 25 states. Known for being straightforward and highly optimistic, I approach challenges with a positive mindset and a can-do attitude.
+
+Aside from technology, I am passionate about **photography** and **cooking**, which allow me to express creativity and patience beyond the code.
 
 ---
-### Images
-![UPES](https://github.com/santoshpanda1995/Basic-Markdown-Editing-for-GitHub/blob/main/upes.png)
+
+### ![UPES](https://github.com/santoshpanda1995/Basic-Markdown-Editing-for-GitHub/blob/main/upes.png)
 
 ---
 
 ### 🛠 Tech Stack
 - **Languages:** C++, Java, Python  
-- **Tools & Frameworks:** [Add any frameworks or tools you use, e.g., Git, VS Code, etc.]  
-- **Languages Spoken:** English 🇬🇧 | French 🇫🇷 | German 🇩🇪
+- **Tools & Frameworks:** Git, VS Code, Python  
+- **Languages Spoken:** English 🇬🇧 | French 🇫🇷 | Hindi 🇮🇳
 
 ---
 
 ### 🏆 Achievements & Hobbies
 - 🏸 Winner of various titles in inter-school & inter-arm competitions in **badminton**, **swimming**, and **table tennis**  
-- Passionate about **cooking**, **badminton** and **polo** — both sports have taught me discipline, teamwork, and perseverance  
-- Always eager to learn new technologies and improve my coding skills  
+- Passionate about **cooking**, **badminton**, **polo**, and **photography** — activities that build discipline, creativity, teamwork, and perseverance  
+- Optimistic and straightforward in approach, with a strong love for problem-solving and continuous learning
+
 ---
 
 ### 📫 Connect with Me
-- Instagram: [pranxxesh073]
-- Email: [praneeshbhatt071107@gmail.com]
+- Instagram: [@pranxxesh073]  
+- Email: praneeshbhatt071107@gmail.com
 
 ---
 
