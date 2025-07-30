@@ -5,13 +5,15 @@
 ---
 
 ### About Me
-I am **Praneesh Bhatt**, currently a dedicated CSR student at **UPES Dehradun**. I specialize in **C++ and Python**, with a strong passion for problem-solving and coding. I am fluent in **English, French, and Hindi**, and come from an army background with extensive exposure across India, having traveled to nearly 25 states. Known for being straightforward and highly optimistic, I approach challenges with a positive mindset and a can-do attitude.
+I am **Praneesh Bhatt**, currently a dedicated CSR student at **UPES Dehradun**. I specialise in **C++ and Python**, with a strong passion for problem-solving and coding. I am fluent in **English, French, and Hindi**, and come from an army background with extensive exposure across India, having travelled to nearly 25 states. Known for being straightforward and highly optimistic, I approach challenges with a positive mindset and a can-do attitude.
 
 Aside from technology, I am passionate about **photography** and **cooking**, which allow me to express creativity and patience beyond the code.
 
 ---
 
-### ![UPES](https://github.com/santoshpanda1995/Basic-Markdown-Editing-for-GitHub/blob/main/upes.png)
+### Image
+
+![UPES](https://github.com/santoshpanda1995/Basic-Markdown-Editing-for-GitHub/blob/main/upes.png)
 
 ---
 
