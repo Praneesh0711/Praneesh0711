@@ -32,9 +32,9 @@ Aside from technology, I am passionate about **photography** and **cooking**, wh
 ---
 
 ### 📫 Connect with Me
-- Instagram: [@pranxxesh073]  
+- Instagram: [https://www.instagram.com/pranxxesh07/]
 - Email: praneeshbhatt071107@gmail.com
-- LinkedIn: [Praneesh Bhatt]
+- LinkedIn: https://www.linkedin.com/in/praneesh-bhatt-494191387/
 
 ---
 
