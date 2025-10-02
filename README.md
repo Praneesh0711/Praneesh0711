@@ -1,11 +1,11 @@
 # Hi there, I'm Praneesh Bhatt 👋
 
-### 🚀 Aspiring Cyber Security Enthusiast | C++ | Python | Multilingual | Photography & Cooking Enthusiast
+### 🚀 Aspiring Cyber Security Enthusiast | C++ | Python| C | Linux | Multilingual | Photography & Cooking Enthusiast
 
 ---
 
 ### About Me
-I am **Praneesh Bhatt**, currently a dedicated CSR student at **UPES Dehradun**. I specialise in **C++ and Python**, with a strong passion for problem-solving and coding. I am fluent in **English, French, and Hindi**, and come from an army background with extensive exposure across India, having travelled to nearly 25 states. Known for being straightforward and highly optimistic, I approach challenges with a positive mindset and a can-do attitude.
+I am **Praneesh Bhatt**, currently a dedicated CSE student at **UPES Dehradun**. I specialise in **C++ and Python**, with a strong passion for problem-solving and coding. I am fluent in **English, French, and Hindi**, and come from an army background with extensive exposure across India, having travelled to nearly 25 states. Known for being straightforward and highly optimistic, I approach challenges with a positive mindset and a can-do attitude.
 
 Aside from technology, I am passionate about **photography** and **cooking**, which allow me to express creativity and patience beyond the code.
 
