@@ -15,7 +15,7 @@
 
 ### 🧠 About Me  
 
-- 🎓 **Final-year B.Tech CSE student at UPES, Dehradun**  
+- 🎓 **First-year B.Tech CSE student at UPES, Dehradun**  
 - 💻 I specialize in **C++**, **Python**, and **Problem Solving**  
 - 🔒 Interested in **Cybersecurity**, **Networking**, and **Linux**  
 - 🌍 Fluent in **English**, **French**, and **Hindi**  
